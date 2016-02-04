@@ -8,4 +8,4 @@ This workflow assumes two things:
 
 Use the keyword `ssh` to trigger the workflow, then hit space. You will see a list of all the available connections defined in your `~/.ssh/config` file. Select the desired connection and it will launch in a new iTerm tab.
 
-![SSH iTerm Alfred Workflow](http://i.imgur.com/VqYSJYz.jpg)
+![SSH iTerm Alfred Workflow](http://i.imgur.com/RUxkGqI.jpg)
